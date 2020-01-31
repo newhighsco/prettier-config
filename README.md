@@ -41,7 +41,3 @@ module.exports = {
     semi: false
 };
 ```
-
-## [CHANGELOG](CHANGELOG.md)
-
-## [LICENSE](LICENSE)
