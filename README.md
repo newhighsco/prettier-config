@@ -41,3 +41,5 @@ module.exports = {
     semi: false
 };
 ```
+
+## [CHANGELOG](CHANGELOG.md)
