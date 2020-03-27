@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/newhighsco/prettier-config/compare/v1.0.3...v1.0.4) (2020-03-27)
+
+
+### Bug Fixes
+
+* **deps:** reverts prettier update ([c19d811](https://github.com/newhighsco/prettier-config/commit/c19d811c6c0c7f9acc259a22d685397feece2f71))
+
 ## [1.0.3](https://github.com/newhighsco/prettier-config/compare/v1.0.2...v1.0.3) (2020-03-13)
 
 
