@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/newhighsco/prettier-config/compare/v1.1.1...v2.0.0) (2020-03-27)
+
+
+### Features
+
+* **deps:** updates prettier to v2.0.2 ([e8a5807](https://github.com/newhighsco/prettier-config/commit/e8a5807f0a134f8729bcd92e6eacaca9a1af89cd))
+
+
+### BREAKING CHANGES
+
+* **deps:** Prettier method chain breaking heuristic updated - https://prettier.io/blog/2020/03/21/2.0.0.html#improved-method-chain-breaking-heuristic-6685httpsgithubcomprettierprettierpull6685-by-mmkalhttpsgithubcommmkal
+
 ## [1.1.1](https://github.com/newhighsco/prettier-config/compare/v1.1.0...v1.1.1) (2020-03-27)
 
 
