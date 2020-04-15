@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/newhighsco/prettier-config/compare/v2.0.1...v2.0.2) (2020-04-15)
+
+
+### Bug Fixes
+
+* **deps:** bumps lock file ([adcd79d](https://github.com/newhighsco/prettier-config/commit/adcd79d9b35473e2b1a871684ae7b9565a027dae))
+
 ## [2.0.1](https://github.com/newhighsco/prettier-config/compare/v2.0.0...v2.0.1) (2020-04-06)
 
 
