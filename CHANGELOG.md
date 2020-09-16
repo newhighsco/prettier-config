@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/newhighsco/prettier-config/compare/v2.0.5...v2.0.6) (2020-09-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency prettier to v2.1.2 ([a2e2f71](https://github.com/newhighsco/prettier-config/commit/a2e2f71d98b2412230002aaacac5ce188a2f7093))
+
 ## [2.0.5](https://github.com/newhighsco/prettier-config/compare/v2.0.4...v2.0.5) (2020-08-26)
 
 
