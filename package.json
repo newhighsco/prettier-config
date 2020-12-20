@@ -13,6 +13,7 @@
     "url": "https://github.com/newhighsco/prettier-config/issues"
   },
   "main": "prettier.config.js",
+  "files": [],
   "scripts": {
     "test": "npm run lint",
     "lint": "npm-run-all --parallel lint:*",
