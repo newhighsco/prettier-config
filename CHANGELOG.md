@@ -1,3 +1,10 @@
+## [2.0.11](https://github.com/newhighsco/prettier-config/compare/v2.0.10...v2.0.11) (2021-06-15)
+
+
+### Bug Fixes
+
+* **deps:** run `yarn upgrade` ([e557189](https://github.com/newhighsco/prettier-config/commit/e5571895fc9eaca048ab87e60e0496bfede2f242))
+
 ## [2.0.10](https://github.com/newhighsco/prettier-config/compare/v2.0.9...v2.0.10) (2021-06-05)
 
 
